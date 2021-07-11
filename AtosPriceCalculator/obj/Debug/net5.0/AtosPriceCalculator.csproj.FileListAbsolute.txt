@@ -1,0 +1,16 @@
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.exe
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.deps.json
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.runtimeconfig.json
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.runtimeconfig.dev.json
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.dll
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\ref\AtosPriceCalculator.dll
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\bin\Debug\net5.0\AtosPriceCalculator.pdb
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.csproj.AssemblyReference.cache
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.AssemblyInfoInputs.cache
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.AssemblyInfo.cs
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.csproj.CoreCompileInputs.cache
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.dll
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\ref\AtosPriceCalculator.dll
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.pdb
+C:\SpiceRestarent\AtosPriceCalculator\AtosPriceCalculator\obj\Debug\net5.0\AtosPriceCalculator.genruntimeconfig.cache
